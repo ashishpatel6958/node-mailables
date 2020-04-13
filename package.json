@@ -1,5 +1,5 @@
 {
-  "name": "@ashishpatel6958/node-mailables",
+  "name": "node-mailables",
   "version": "0.1.0",
   "description": "Mailing helper with nodemailer and ejs",
   "main": "index.js",
