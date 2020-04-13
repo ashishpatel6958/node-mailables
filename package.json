@@ -1,0 +1,23 @@
+{
+  "name": "@ashishpatel6958/node-mailables",
+  "version": "0.1.0",
+  "description": "Mailing helper with nodemailer and ejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishpatel6958/node-mailables.git"
+  },
+  "keywords": [
+    "nodemailer",
+    "node-mail-helper"
+  ],
+  "author": "ashishpatel6958@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishpatel6958/node-mailables/issues"
+  },
+  "homepage": "https://github.com/ashishpatel6958/node-mailables#readme"
+}
