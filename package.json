@@ -10,6 +10,10 @@
     "type": "git",
     "url": "git+https://github.com/ashishpatel6958/node-mailables.git"
   },
+  "dependencies": {
+    "ejs": "^3.0.2",
+    "nodemailer": "^6.4.6"
+  },
   "keywords": [
     "nodemailer",
     "node-mail-helper"
